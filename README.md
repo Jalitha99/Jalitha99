@@ -32,11 +32,11 @@
 
 <hr>
 
-<p style= "text-align:center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalitha99&theme=algolia&show_icons=true&locale=en&layout=compact" alt="jalitha99" /></p>
+<p style="margin-left:200px"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalitha99&theme=algolia&show_icons=true&locale=en&layout=compact" alt="jalitha99" /></p>
 
 <hr>
 
-<p style="text-align:center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jalitha99&theme=algolia&show_icons=true&locale=en" alt="jalitha99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jalitha99&theme=algolia&show_icons=true&locale=en" alt="jalitha99" /></p>
 
 <hr>
 
