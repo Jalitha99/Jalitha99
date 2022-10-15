@@ -36,7 +36,7 @@
 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jalitha99&theme=algolia&show_icons=true&locale=en" alt="jalitha99" /></p>
+<p style="text-align:center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jalitha99&theme=algolia&show_icons=true&locale=en" alt="jalitha99" /></p>
 
 <hr>
 
