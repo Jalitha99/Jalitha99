@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Jalithakalsara2@gmail.com**
 
-- ⚡ Fun fact **I like camping🚶 and Hiking⛺**
+- ⚡ Fun fact **I like camping⛺ and Hiking🚶**
 
 
 
