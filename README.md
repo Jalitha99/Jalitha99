@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jalitha99&label=Profile%20views&color=0e75b6&style=flat" alt="jalitha99" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jalitha" target="blank"><img src="https://img.shields.io/twitter/follow/jalitha?logo=twitter&style=for-the-badge" alt="jalitha" /></a> </p>
 
 - 🔭 I’m currently working on [MyDietGuide](https://github.com/Software-Engineering-Project-Group-14/my_diet_guide)
 
@@ -25,6 +24,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalitha99&theme=algolia&show_icons=true&locale=en&layout=compact" alt="jalitha99" /></p>
 
+<p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 
 <div class="row">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jalitha99&theme=algolia&show_icons=true&locale=en" alt="jalitha99" /></p>
@@ -45,3 +45,5 @@
 <a href="https://instagram.com/jalithakalsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jalithakalsara" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jalithakalsara2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jalithakalsara2" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <a href="https://twitter.com/jalitha" target="blank"><img src="https://img.shields.io/twitter/follow/jalitha?logo=twitter&style=for-the-badge" alt="jalitha" /></a> </p>
