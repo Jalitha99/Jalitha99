@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Jalitha Kalsara</h1>
 <h3 align="center">Computer Science & Engineering Undergraduate of University of Moratuwa</h3>
-<img align="right" alt="Coding" width="400" src="https://im5.ezgif.com/tmp/ezgif-5-8fa5eddac5.gif">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?id=1qR4uxgup5CaK7NEXzmocFlkGvLVadAUR">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jalitha99&label=Profile%20views&color=0e75b6&style=flat" alt="jalitha99" /> </p>
 
