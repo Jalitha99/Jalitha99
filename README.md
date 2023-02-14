@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jalitha99&label=Profile%20views&color=0e75b6&style=flat" alt="jalitha99" /> </p>
 
 
-- 🔭 I’m currently working on [Fcode Labs]((https://www.fcodelabs.com/))
+- 🔭 I’m currently working on [Fcode Labs](https://www.fcodelabs.com/)
 
 - 🌱 I’m currently learning **Flutter, Firebase and cloud Firestore**
 
