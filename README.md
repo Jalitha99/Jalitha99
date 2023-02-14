@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jalitha99&label=Profile%20views&color=0e75b6&style=flat" alt="jalitha99" /> </p>
 
 
-- 🔭 I’m currently working on [Fcode Labs](https://www.fcodelabs.com/)
+- 🔭 I’m currently working at [Fcode Labs](https://www.fcodelabs.com/)
 
-- 🌱 I’m currently learning **Flutter, Firebase and cloud Firestore**
+- 🌱 I’m currently learning **Nest js**
 
-- 💬 Ask me about **Flutter, Java, Python, PHP, MySQL, HTML, CSS**
+- 💬 Ask me about **Flutter, React, Node js, Redux, Saga, TypeOrm, Java, Python, PHP, MySQL, HTML, CSS**
 
 - 📫 How to reach me **Jalithakalsara2@gmail.com**
 
