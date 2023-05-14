@@ -21,7 +21,6 @@
 
 
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalitha99&theme=algolia&show_icons=true&locale=en&layout=compact" alt="jalitha99" /></p>
 
 <p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
